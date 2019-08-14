@@ -6,7 +6,7 @@
 //
 
 #import "YZKNetwork.h"
-@import AFNetworking;
+#import "AFNetworking/AFNetworking.h"
 
 @implementation YZKNetwork
     
