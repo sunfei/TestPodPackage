@@ -1,0 +1,6 @@
+framework module yzk {
+  umbrella header "yzk-umbrella.h"
+
+  export *
+  module * { export * }
+}

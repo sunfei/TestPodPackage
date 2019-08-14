@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'yzk_Example' do
+  pod 'yzk', :path => '../'
+
+  target 'yzk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

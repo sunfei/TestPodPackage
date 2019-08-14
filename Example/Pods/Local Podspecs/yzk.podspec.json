@@ -1,0 +1,27 @@
+{
+  "name": "yzk",
+  "version": "0.1.0",
+  "summary": "A short description of yzk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cosmossaas@gmail.com/yzk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cosmossaas@gmail.com": "sun.fei@immomo.com"
+  },
+  "source": {
+    "git": "https://github.com/cosmossaas@gmail.com/yzk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "yzk/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
